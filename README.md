@@ -15,3 +15,6 @@ git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
 
 Y si quereis poner un link tendreís que poner. [Nombre que aparecerá](https:://leonardo.ai/faq/)
+
+![Aqui ponemos una pequea descripcion de la imagen para las personas que no pueden ver y pra que el buscador nos posicione mejor]![image](https://github.com/GorkaFer/Ejemplo_R/assets/167762580/8c333244-9393-4565-93d6-2cc1aced1155)
+
